@@ -1,6 +1,6 @@
 # Cointab SE-ASSIGNMENT
 
-### Cointab Server is a Node.js server application for managing users and posts data using a SQL database. It provides RESTful API endpoints to perform CRUD operations on users and posts.
+### Cointab SE-ASSIGNMENT is a react application for managing users and posts data using a SQL database. It provides RESTful API endpoints to perform CRUD operations on users and posts.
 
 ## Table of Contents
 
