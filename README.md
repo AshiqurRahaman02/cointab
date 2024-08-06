@@ -10,7 +10,7 @@
    -  [Configuration](#configuration)
 -  [Usage](#usage)
 -  [Presentation](#presentation)
--  [Cointab server](#eksaq-server)
+-  [Cointab server](#cointab-server)
 -  [Contributing](#contributing)
 -  [License](#license)
 
