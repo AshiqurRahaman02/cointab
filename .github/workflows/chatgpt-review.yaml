@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: ChatGPT Code Review
     steps:
-      - name: GenAI Code Review
-        uses: dlidstrom/genai-code-review@3
+      - name: ChatGPT GitHub Actions
+        uses: dlidstrom/genai-code-review@v3.0.2
         with:
           openai_api_key: ${{ secrets.OPENAI_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
